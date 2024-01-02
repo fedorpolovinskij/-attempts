@@ -1,0 +1,4 @@
+ attempts--
+            if (attempts > 0) {
+                println("Incorrect. You have $attempts attempts left.")
+            } else {
